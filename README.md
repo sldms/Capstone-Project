@@ -1,6 +1,11 @@
 # Capstone-Project
 (Junior) 2023-2, Capstone Project
 <일별 승차 승객 수 시계열 예측 프로젝트>
+## 📌 Project Overview
+- **Project Period**: 2023.09 – 2023.12
+- **Dataset**: Daily public transportation ridership data
+- **Forecast Horizon**: 6 months (180 days)
+
 ## 1. 프로젝트 개요 (What & Why)
 
 본 프로젝트는 **일별 승차 승객 수 데이터**를 기반으로
